@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Adaptive_Planning_RegHomeController</members>
+        <members>EEG_RegistrationUtility</members>
         <name>ApexClass</name>
     </types>
     <version>33.0</version>
