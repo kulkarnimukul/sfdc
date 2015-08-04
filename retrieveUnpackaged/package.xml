@@ -3,6 +3,7 @@
     <types>
         <members>Adaptive_Planning_RegHomeController</members>
         <members>EEG_RegistrationUtility</members>
+        <members>EEG_RegistrationUtilityTest</members>
         <name>ApexClass</name>
     </types>
     <version>33.0</version>
